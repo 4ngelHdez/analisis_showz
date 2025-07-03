@@ -9,21 +9,20 @@ En este proyecto, se realizaron prácticas en el departamento de analítica de S
 
 El proyecto se centró en investigar los siguientes aspectos:
 
-    * Cómo los clientes utilizan el servicio.
-    * Cuándo los clientes comienzan a realizar compras.
-    * Cuánto dinero aporta cada cliente a la compañía.
-    * Cuándo los ingresos generados cubren el costo de adquisición de los clientes.
+   * Cómo los clientes utilizan el servicio.
+   * Cuándo los clientes comienzan a realizar compras.
+   * Cuánto dinero aporta cada cliente a la compañía.
+   * Cuándo los ingresos generados cubren el costo de adquisición de los clientes.
 
 ### Metodología:
 
 Para llevar a cabo este proyecto utilicé Python como herramienta principal para el procesamiento, análisis y visualización de datos. Las etapas incluyeron:
 
-    * Análisis exploratorio de datos: limpieza de valores nulos, identificación de duplicados y transformación de datos para facilidatar su análisis.
-    * Cálculo de la retención de los usuarios, para conocer cuantos usuarios permanecen con nosotros a través del tiempo.
-    * Cálculo de LTV (Valor del ciclo de vida del cliente), para conocer cuanto dinero podemos obtener con cada cliente a lo largo de su relación.
-    * Cálculo del CAC (Costo de Adquisicón del Cliente) para conocer cuanto nos cuentas en promodio adquirir un nuevo cliente.
-    * Cálculo del ROMI (Retorno de inversión de mercadotecnia) esto nos permite medir el retorno económico de las campañas de mkt.
-
+   * Análisis exploratorio de datos: limpieza de valores nulos, identificación de duplicados y transformación de datos para facilidatar su análisis.
+   * Cálculo de la retención de los usuarios, para conocer cuantos usuarios permanecen con nosotros a través del tiempo.
+   * Cálculo de LTV (Valor del ciclo de vida del cliente), para conocer cuanto dinero podemos obtener con cada cliente a lo largo de su relación.
+   * Cálculo del CAC (Costo de Adquisicón del Cliente) para conocer cuanto nos cuentas en promodio adquirir un nuevo cliente.
+   * Cálculo del ROMI (Retorno de inversión de mercadotecnia) esto nos permite medir el retorno económico de las campañas de mkt.
 
 ### Conclusiones:
 
@@ -37,5 +36,5 @@ Tendremos que ver la eficiencia de las campañas de marketing para poder saber e
 
 ### Lenguajes y herramientas principales:
 
-    * Python (pandas, matplotlib, numpy, seaborn, matplotlib)
-    * Jupyter Notebook para la documentación del flujo de trabajo
+   * Python (pandas, matplotlib, numpy, seaborn, matplotlib)
+   * Jupyter Notebook para la documentación del flujo de trabajo
